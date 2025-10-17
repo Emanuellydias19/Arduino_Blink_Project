@@ -30,7 +30,11 @@ OBS: No Tinkercad, arraste os componentes para o workspace, conecte os fios e co
 
 - **Circuito montado:** ![foto_led_piscando1](https://github.com/user-attachments/assets/29a52445-7009-401a-b53c-8638886af752)
 - **Vídeo de Demonstração:** https://youtu.be/vkqzBNprj80?si=9eMyGPg9JfVdR2Ci
-- **Led que pisca no Thinkercad:** <img width="1280" height="488" alt="arduino_blink_project" src="https://github.com/user-attachments/assets/baf96ec2-c4d9-45a4-9ef2-a58d35c0731b" />
+- **Led que pisca no Thinkercad (apagado):** <img width="1280" height="488" alt="arduino_blink_project" src="https://github.com/user-attachments/assets/baf96ec2-c4d9-45a4-9ef2-a58d35c0731b" />
+
+- **Led que pisca no Thinkercad (aceso):** <img width="1900" height="835" alt="image" src="https://github.com/user-attachments/assets/8d9a1fb0-c31d-405f-a919-b18d9bf80411" />
+
+
 
 
   ### Referências
