@@ -31,7 +31,7 @@ Esse é o **"freio"** da **corrente elétrica**, sabe? Ele controla quantos elé
 
 Existe um aplicativo que te ajuda a identificar com praticidade, nome : Resistor. 
 
-
+<br>
 
 #### LED (Light Emitting Diode) 
 
@@ -39,15 +39,21 @@ O LED é o cara que brilha no nosso projeto piscadinha. Ele é um diodo emissor 
 
 **OBS:** O resistor (como o de 220Ω que usamos) é tipo um "guarda-costas" que protege ele.
 
+<br>
+
 ##### O Que é um Diodo?
 
 Agora,  um diodo é tipo uma **"porteira" ou "válvula"** da eletrônica. Ele é um componente feito de material semicondutor (geralmente silício) que deixa a corrente elétrica passar só em um sentido.
 
  Imagina uma rua de mão única: a corrente vai do ânodo (o lado positivo) pro cátodo (o lado negativo), mas não o contrário. Se tentar forçar a corrente no sentido errado, ele **bloqueia**. 
 
+ <br>
+
  #### Jumper
 
 Esses fiozinhos tipo 22 AWG ou 3mm são os heróis das conexões. Eles encaixam direitinho na protoboard e fazem a ponte entre o positivo (volts) e o GND (terra, negativo). Sem eles, nada de energia circulando.
+
+<br>
 
 
 
@@ -55,8 +61,7 @@ Esses fiozinhos tipo 22 AWG ou 3mm são os heróis das conexões. Eles encaixam 
 
 A nossa "mesa de trabalho" sem solda! É onde a gente monta o circuito, conectando o LED, o resistor e os jumpers. Super prática pra testar ideias sem bagunça.
 
-
-
+<br>
 
 #### Arduino
 
@@ -67,5 +72,11 @@ _____________________________________________________
 
 ## Componentes importantes estudados 
 
+#### Capacitor
+Esse cara carrega e descarrega energia super rápido. Tem tipos como eletrolítico (com polaridade, cuidado pra não inverter!), cerâmico e poliéster. Se mexer errado, pode levar um choque, então fica esperto!
 
+<br>
+
+#### Relé
+Um interruptor eletromecânico high-tech. Tem uma bobina que, quando energizada, vira um eletroímã e puxa um contato pra ligar ou desligar algo. Perfeito pra controlar coisas maiores com eletrônica.
 
