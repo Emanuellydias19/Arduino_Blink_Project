@@ -127,3 +127,9 @@ void loop() {
 - Aqui a gente usa delay() pra pausar o código e criar o efeito de piscar. O LED interno (pino 13 no Uno) vai ficar igual uma luz dançante.
 <br>
 
+--------------------------------------------
+
+Partimos do absoluto zero, explorando circuitos no Tinkercad e organizando tudo no GitHub. Começamos com um simples LED interno na Parte 1 e evoluímos para o projeto piscadinha com LED externo na Parte 2. Utilizamos componentes básicos como Arduino, protoboard, LED, resistor e jumpers, e mergulhamos de cabeça no universo da eletrônica — desde entender como o resistor controla a corrente, evitando que o LED queime, até dominar as conexões certas! 
+
+até maissss ;)
+ 
