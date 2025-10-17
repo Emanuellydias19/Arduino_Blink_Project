@@ -20,5 +20,17 @@ _____________________________________
 
 - **Fonte de Corrente Alternada:** Direto da tomada, mas a gente não usa tanto assim no Arduino, prefere-se a DC.
 
+--------------------------------------
+
+## Componentes que usamos 
+
+#### Resistor
+Esse é o **"freio"** da **corrente elétrica**, sabe? Ele controla quantos elétrons passam. Esquenta um pouco e reduz a corrente, mas não mexe na tensão (os volts). O legal é que dá na mesma colocar ele no terminal positivo ou negativo — a ordem não importa, desde que esteja na série com o LED pra proteger ele.
+
+**Faixas Coloridas:** As listrinhas no resistor (tipo laranja-vermelha-preta = 220Ω) mostram quanto ele aguenta. 
+
+Existe um aplicativo que te ajuda a identificar com praticidade, nome : Resistor. 
+
+
 
 
