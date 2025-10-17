@@ -75,6 +75,7 @@ Esse querido carrega e descarrega energia super rápido. Tem tipos como eletrol�
 O capacitor é tipo uma "bateria rapidinha" no nosso circuito eletrônico. Ele carrega energia elétrica super rápido quando tem corrente disponível e a descarrega na mesma velocidade quando precisa. Imagina ele como um copo que enche e esvazia de água num piscar de olhos! Ele não guarda energia por muito tempo como uma bateria, mas é perfeito pra estabilizar voltagens ou dar um "empurrão" em momentos específicos.
 
 <br>
+
 #### Relé
 Um interruptor eletromecânico high-tech. Tem uma bobina que, quando energizada, vira um eletroímã e puxa um contato pra ligar ou desligar algo. 
 
