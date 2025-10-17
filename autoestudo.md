@@ -70,10 +70,14 @@ _____________________________________________________
 ## Componentes importantes estudados 
 
 #### Capacitor
-Esse cara carrega e descarrega energia super rápido. Tem tipos como eletrolítico (com polaridade, cuidado pra não inverter!), cerâmico e poliéster. Se mexer errado, pode levar um choque, então fica esperto!
+Esse querido carrega e descarrega energia super rápido. Tem tipos como eletrolítico (com polaridade), cerâmico e poliéster. Se mexer errado, pode levar um choque, e ele pode explodir.
+
+O capacitor é tipo uma "bateria rapidinha" no nosso circuito eletrônico. Ele carrega energia elétrica super rápido quando tem corrente disponível e a descarrega na mesma velocidade quando precisa. Imagina ele como um copo que enche e esvazia de água num piscar de olhos! Ele não guarda energia por muito tempo como uma bateria, mas é perfeito pra estabilizar voltagens ou dar um "empurrão" em momentos específicos.
+
 <br>
 #### Relé
-Um interruptor eletromecânico high-tech. Tem uma bobina que, quando energizada, vira um eletroímã e puxa um contato pra ligar ou desligar algo. Perfeito pra controlar coisas maiores com eletrônica.
+Um interruptor eletromecânico high-tech. Tem uma bobina que, quando energizada, vira um eletroímã e puxa um contato pra ligar ou desligar algo. 
+
 <br>
 
 ####  Semicondutores
@@ -88,6 +92,37 @@ Feitos de silício, ficam no meio-termo entre condutores (deixam corrente passar
 
 _______________________________________
 
-## Código Básico 
+## Código Básico =) 
 
+```
+void setup() {
+  pinMode(LED_BUILTIN, OUTPUT); 
+}
+
+void loop() {
+  digitalWrite(LED_BUILTIN, HIGH);  
+}
+```
+
+- O setup() roda só uma vez quando liga, e o loop() fica repetindo sem parar.
+
+_________________________________________________
+
+## Projeto Piscadinha ;)
+
+```
+void setup() {
+  pinMode(LED_BUILTIN, OUTPUT);  // Configura o LED interno como saída
+}
+
+void loop() {
+  digitalWrite(LED_BUILTIN, HIGH);  // Acende o LED
+  delay(420);                       // Espera 420ms (0.42s) aceso
+  digitalWrite(LED_BUILTIN, LOW);   // Apaga o LED
+  delay(420);                       // Espera 420ms (0.42s) apagado
+}
+```
+
+- Aqui a gente usa delay() pra pausar o código e criar o efeito de piscar. O LED interno (pino 13 no Uno) vai ficar igual uma luz dançante.
+<br>
 
