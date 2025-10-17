@@ -31,10 +31,10 @@ OBS: No Tinkercad, arraste os componentes para o workspace, conecte os fios e co
 #### Capturas de Tela:
 
 - **Circuito montado:** 
-- **Simulação rodando:**
+- **Simulação rodando:** 
+- **Vídeo de Demonstração:** https://youtu.be/vkqzBNprj80?si=9eMyGPg9JfVdR2Ci
+- **Led que pisca no Thinkercad:** <img width="1280" height="488" alt="arduino_blink_project" src="https://github.com/user-attachments/assets/baf96ec2-c4d9-45a4-9ef2-a58d35c0731b" />
 
-- **Vídeo de Demonstração:** 
-- **Blink Inicial com LED Interno:**
 
 
   ### Referências
