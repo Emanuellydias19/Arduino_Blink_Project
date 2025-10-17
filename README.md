@@ -34,4 +34,11 @@ OBS: No Tinkercad, arraste os componentes para o workspace, conecte os fios e co
 - **Simulação rodando:**
 
 - **Vídeo de Demonstração:** 
-- **Blink Inicial com LED Interno:** 
+- **Blink Inicial com LED Interno:**
+
+
+  ### Referências
+
+1. Documentação Arduino: 
+2. Tutoriais Tinkercad: 
+3. Vídeos Assistidos: 
