@@ -33,4 +33,39 @@ Existe um aplicativo que te ajuda a identificar com praticidade, nome : Resistor
 
 
 
+#### LED (Light Emitting Diode) 
+
+O LED é o cara que brilha no nosso projeto piscadinha. Ele é um diodo emissor de luz, ou seja, acende quando a corrente elétrica passa por ele. A perna mais comprida é o positivo (ânodo), e a mais curta é o negativo (cátodo). Se você ligar ele direto numa bateria de 9V sem um resistor pra controlar a corrente, ele frita na hora — então, cuidado pra não queimar nosso astro! 
+
+**OBS:** O resistor (como o de 220Ω que usamos) é tipo um "guarda-costas" que protege ele.
+
+##### O Que é um Diodo?
+
+Agora,  um diodo é tipo uma **"porteira" ou "válvula"** da eletrônica. Ele é um componente feito de material semicondutor (geralmente silício) que deixa a corrente elétrica passar só em um sentido.
+
+ Imagina uma rua de mão única: a corrente vai do ânodo (o lado positivo) pro cátodo (o lado negativo), mas não o contrário. Se tentar forçar a corrente no sentido errado, ele **bloqueia**. 
+
+ #### Jumper
+
+Esses fiozinhos tipo 22 AWG ou 3mm são os heróis das conexões. Eles encaixam direitinho na protoboard e fazem a ponte entre o positivo (volts) e o GND (terra, negativo). Sem eles, nada de energia circulando.
+
+
+
+#### Protoboard
+
+A nossa "mesa de trabalho" sem solda! É onde a gente monta o circuito, conectando o LED, o resistor e os jumpers. Super prática pra testar ideias sem bagunça.
+
+
+
+
+#### Arduino
+
+O cérebro da operação! Com a entrada USB, a gente manda o código (o tal do sketch) pra ele controlar o LED. É o homem que dá vida pro projeto piscadinha acontecer...
+
+
+_____________________________________________________
+
+## Componentes importantes estudados 
+
+
 
