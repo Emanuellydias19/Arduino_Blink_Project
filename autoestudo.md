@@ -30,7 +30,6 @@ Esse é o **"freio"** da **corrente elétrica**, sabe? Ele controla quantos elé
 **Faixas Coloridas:** As listrinhas no resistor (tipo laranja-vermelha-preta = 220Ω) mostram quanto ele aguenta. 
 
 Existe um aplicativo que te ajuda a identificar com praticidade, nome : Resistor. 
-
 <br>
 
 #### LED (Light Emitting Diode) 
@@ -38,7 +37,6 @@ Existe um aplicativo que te ajuda a identificar com praticidade, nome : Resistor
 O LED é o cara que brilha no nosso projeto piscadinha. Ele é um diodo emissor de luz, ou seja, acende quando a corrente elétrica passa por ele. A perna mais comprida é o positivo (ânodo), e a mais curta é o negativo (cátodo). Se você ligar ele direto numa bateria de 9V sem um resistor pra controlar a corrente, ele frita na hora — então, cuidado pra não queimar nosso astro! 
 
 **OBS:** O resistor (como o de 220Ω que usamos) é tipo um "guarda-costas" que protege ele.
-
 <br>
 
 ##### O Que é um Diodo?
@@ -54,7 +52,6 @@ Agora,  um diodo é tipo uma **"porteira" ou "válvula"** da eletrônica. Ele é
 Esses fiozinhos tipo 22 AWG ou 3mm são os heróis das conexões. Eles encaixam direitinho na protoboard e fazem a ponte entre o positivo (volts) e o GND (terra, negativo). Sem eles, nada de energia circulando.
 
 <br>
-
 
 
 #### Protoboard
@@ -74,9 +71,23 @@ _____________________________________________________
 
 #### Capacitor
 Esse cara carrega e descarrega energia super rápido. Tem tipos como eletrolítico (com polaridade, cuidado pra não inverter!), cerâmico e poliéster. Se mexer errado, pode levar um choque, então fica esperto!
-
 <br>
-
 #### Relé
 Um interruptor eletromecânico high-tech. Tem uma bobina que, quando energizada, vira um eletroímã e puxa um contato pra ligar ou desligar algo. Perfeito pra controlar coisas maiores com eletrônica.
+<br>
+
+####  Semicondutores
+
+Feitos de silício, ficam no meio-termo entre condutores (deixam corrente passar) e isolantes (bloqueiam). São a base de muitos componentes.
+
+- **Diodo:** Tipo uma "porteira" — deixa a corrente passar só num sentido. O LED é um diodo.
+
+- **Transistor:** Revolucionou a eletrônica, deixando tudo mais leve e prático. Tem coletor, emissor e base — a base controla o fluxo entre os outros dois. É tipo o "cérebro" dos circuitos modernos.
+
+- **Chips** (Circuitos Integrados - CI): Um emaranhado de resistores, diodos e transistors numa caixinha só. As perninhas (terminais) conectam tudo na protoboard, condensando um monte de componentes em um só lugar.
+
+_______________________________________
+
+## Código Básico 
+
 
