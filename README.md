@@ -39,6 +39,6 @@ OBS: No Tinkercad, arraste os componentes para o workspace, conecte os fios e co
 
   ### Referências
 
-1. Documentação Arduino: 
-2. Tutoriais Tinkercad: 
-3. Vídeos Assistidos: 
+1. Documentação Arduino: https://docs.arduino.cc/language-reference/pt/
+2. Tutoriais Tinkercad: https://www.youtube.com/watch?v=OqaxjUXTAGw
+4. Vídeos Assistidos: https://www.youtube.com/watch?v=t0tCMcDhbZE 
