@@ -26,3 +26,12 @@ Link do projeto no Tinkercad:
 - Alimentação: Use a porta USB do Arduino para simulação no Tinkercad.
 
 OBS: No Tinkercad, arraste os componentes para o workspace, conecte os fios e cole o código no editor de blocos/código.
+
+## Evidências
+#### Capturas de Tela:
+
+- **Circuito montado:** 
+- **Simulação rodando:**
+
+- **Vídeo de Demonstração:** 
+- **Blink Inicial com LED Interno:** 
